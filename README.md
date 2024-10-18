@@ -5,7 +5,7 @@
 My research focuses on identifyng the presence of Parkinson's disease by using supervised and semi-supervised learning techniques. I used XGBoost and Random Forest for supervised learning and explored FixMatch and GAN models for semi-supervised learning. Dataset: [https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features.]
 
 ### For supervsed::
-I have tried several supervised learning model here. and got highest accuracy in XGBoost. XGBoost Accuracy:got 0.90. Then applied this XGBoost model in supervised model.
+I have tried several supervised learning model here. and got highest accuracy in XGBoost. XGBoost Accuracy:got 0.90. Then applied ensamble XGBoost and SVM model in supervised model.
 
 In another model. I got:
 - Random Forest :
@@ -18,3 +18,6 @@ In another model. I got:
   - XGBoost Accuracy: 0.90(got this and applied)
 - Logistic Regression :
   - Logistic Regression Accuracy: 0.87(got this)
+
+### For Semi-supervsed::
+Then used GAN in semi supervised model.

@@ -15,9 +15,11 @@ In another model. I got:
 - Gradient Boosting Classifier :
   - Gradient Boosting Accuracy: 0.85(got this)
 - XGBoost :
-  - XGBoost Accuracy: 0.90(got this and applied)
+  - XGBoost Accuracy: 0.90(got this)
 - Logistic Regression :
   - Logistic Regression Accuracy: 0.87(got this)
+- Combination XGBoost model with Support Vector Machine (SVM)using a Voting Classifier (Ensamble model)
+  - Ensamble model Accuracy: 0.90(got this and applied)
 
 ### For Semi-supervsed::
 Then used GAN in semi supervised model.
